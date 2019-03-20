@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552561661 source:c:\users\johannes\code\self\logonchecker-retry\src\exec.cpp
+	"../include/exec.h"
+	<iostream>
+	<stdexcept>
+	<stdio.h>
+	<string>
+
+1552561664 c:\users\johannes\code\self\logonchecker-retry\include\exec.h
+	<string>
+
